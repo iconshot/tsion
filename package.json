@@ -1,6 +1,6 @@
 {
   "name": "tsion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dictionary-based serialization format.",
   "repository": {
     "type": "git",
